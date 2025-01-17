@@ -4,7 +4,7 @@ import SocialLinks from './SocialLinks'
 const HeroSection = () => {
   return (
     <section
-      className='w-fit bg-black text-white flex flex-col justify-center sm:flex-row sm:gap-5 gap-3 sm:p-6 p-4 sm:mx-0 mx-3 rounded-lg sm:text-[0.8rem] text-[0.6rem] font-sans shadow-lg'
+      className='sm:w-[60%] w-[90%] bg-black text-white flex flex-col justify-center sm:flex-row sm:gap-5 gap-3 sm:p-6 p-4 rounded-lg sm:text-[0.8rem] text-[0.6rem] font-sans shadow-lg'
     >
       <div className='sm:block flex justify-between items-center '>
         <img src="./assets/pfp.jpg" alt="pfp" className='sm:w-[5.5rem] w-[4rem] rounded-lg' />
