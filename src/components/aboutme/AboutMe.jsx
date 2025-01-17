@@ -2,7 +2,7 @@ import React from 'react'
 
 const AboutMe = () => {
   return (
-    <section className='sm:w-[45%] w-[90%] sm:p-3 p-1 mt-4'>
+    <section className='sm:w-[45%] w-[90%] sm:p-3 p-1 mt-4 text-white'>
       <div>
         <h1 className='font-semibold text-lg'>About Me</h1>
         <p className='sm:text-lg text-sm mt-2'>
