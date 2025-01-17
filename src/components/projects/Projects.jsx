@@ -3,8 +3,8 @@ import ProjectCard from './ProjectCard'
 
 const Projects = () => {
   return (
-    <section className='sm:w-[45%] w-[90%] sm:p-6 p-5 mt-6 bg-white rounded-lg shadow-xl'>
-      <h1 className='font-semibold text-lg'>Projects</h1>
+    <section className='sm:w-[45%] w-[90%] sm:p-8 p-6 mt-6 bg-white rounded-lg shadow-xl'>
+      <h1 className='font-semibold text-xl'>Projects</h1>
 
       <div className='flex gap-4 flex-wrap justify-between mt-4'>
         <ProjectCard

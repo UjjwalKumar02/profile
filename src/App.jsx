@@ -5,7 +5,7 @@ import Projects from './components/projects/Projects'
 
 function App() {
   return (
-    <div className='flex flex-col justify-center items-center bg-gray-800'>
+    <div className='flex flex-col justify-center items-center bg-gray-900'>
     <Header />
     <HeroSection />
     <AboutMe />
